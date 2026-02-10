@@ -1,6 +1,5 @@
 - I’m @yuchu23
 - interested in AI4Chem
-- I’m currently learning python and C++
 - yuchuleo05@gmail.com
 
 <!---
